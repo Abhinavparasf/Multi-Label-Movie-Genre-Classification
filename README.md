@@ -4,5 +4,7 @@
 
 **2. Handled class imbalance problem**
 
-**3. Served model with Tensorflow Serving**
+**3. Used Hugging face BERT model for classification**
+
+**4. Served model with Tensorflow Serving**
 
